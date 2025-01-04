@@ -1,2 +1,2 @@
 # Wikipedia
-Wikepedia-like page
+Wikepedia-like frontend using django and html
